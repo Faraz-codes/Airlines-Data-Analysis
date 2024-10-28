@@ -42,10 +42,9 @@ A shortage of skilled professionals in the aviation sector has led to increased 
 
 To reproduce the analysis and explore the insights:
 
-1. Clone this repository: `git clone https://github.com/Ashutosh-Ojha/Airlines-Data-Analysis-using-Python-SQL`
-2. Navigate to the project directory: `cd airline-profitability-analysis`
-3. Open the Jupyter Notebook: `jupyter notebook`
-4. Run the notebook cells to execute the analysis.
+1. Clone this repository: `git clone https://github.com/Faraz-codes/Airlines-Data-Analysis/blob/main/Airlines_Data_Analysis_code.ipynb`
+2. Open the Jupyter Notebook: `jupyter notebook`
+3. Run the notebook cells to execute the analysis.
 
 ## Dataset
 
@@ -74,6 +73,6 @@ Please download the dataset and place it in the appropriate directory before run
 
 ## Report
 
-For detailed insights and technical details, please refer to the [project report](https://github.com/Ashutosh-Ojha/Airlines-Data-Analysis-using-Python-SQL/blob/master/Report%20of%20Airlines%20Analysis.pdf) included in this repository.
+For detailed insights and technical details, please refer to the [project report](https://github.com/Faraz-codes/Airlines-Data-Analysis/blob/main/report_for_airline_analysis.pdf) included in this repository.
 
 Feel free to explore the Jupyter Notebook for a comprehensive view of the analysis.
